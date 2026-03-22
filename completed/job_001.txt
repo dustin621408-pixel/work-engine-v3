@@ -1,0 +1,7 @@
+﻿TITLE: Sample Automation Job
+SOURCE: Manual
+DESCRIPTION:
+Client needs a simple automation process to reduce repetitive work.
+
+CONSTRAINTS:
+Keep it simple, reliable, and easy to use.

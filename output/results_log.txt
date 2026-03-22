@@ -1,0 +1,408 @@
+20260321_212224 | job_batch_1.txt | STEP: 1. Scan folder
+20260321_212224 | job_batch_1.txt | STEP: 2. Identify file types
+20260321_212227 | job_batch_10.txt | STEP: 1. Scan folder
+20260321_212227 | job_batch_10.txt | STEP: 2. Identify file types
+20260321_212227 | job_batch_10.txt | STEP: 3. Organize output
+20260321_212231 | job_batch_11.txt | STEP: 1. Do something impossible
+20260321_212234 | job_batch_12.txt | STEP: 1. Scan folder
+20260321_212234 | job_batch_12.txt | STEP: 2. Identify file types
+20260321_212237 | job_batch_13.txt | STEP: 1. Scan folder
+20260321_212237 | job_batch_13.txt | STEP: 2. Identify file types
+20260321_212237 | job_batch_13.txt | STEP: 3. Create report
+20260321_212241 | job_batch_14.txt | STEP: 1. Scan folder
+20260321_212241 | job_batch_14.txt | STEP: 2. Identify file types
+20260321_212241 | job_batch_14.txt | STEP: 3. Create folders by type
+20260321_212241 | job_batch_14.txt | STEP: 4. Move files into folders
+20260321_212244 | job_batch_15.txt | STEP: 1. Scan folder
+20260321_212244 | job_batch_15.txt | STEP: 2. Identify file types
+20260321_212244 | job_batch_15.txt | STEP: 3. Create folders by type
+20260321_212244 | job_batch_15.txt | STEP: 4. Move files into folders
+20260321_212248 | job_batch_16.txt | STEP: 1. Scan folder
+20260321_212248 | job_batch_16.txt | STEP: 2. Identify file types
+20260321_212248 | job_batch_16.txt | STEP: 3. Generate file summary
+20260321_212251 | job_batch_17.txt | STEP: 1. Scan folder
+20260321_212251 | job_batch_17.txt | STEP: 2. Identify file types
+20260321_212251 | job_batch_17.txt | STEP: 3. Log results
+20260321_212251 | job_batch_17.txt | RESULTS LOGGED
+20260321_212254 | job_batch_18.txt | STEP: 1. Scan folder
+20260321_212254 | job_batch_18.txt | STEP: 2. Identify file types
+20260321_212254 | job_batch_18.txt | STEP: 3. Rename files
+20260321_212258 | job_batch_19.txt | STEP: 1. Scan folder
+20260321_212258 | job_batch_19.txt | STEP: 2. Identify file types
+20260321_212258 | job_batch_19.txt | STEP: 3. Detect duplicates
+20260321_212301 | job_batch_2.txt | STEP: 1. Scan folder
+20260321_212301 | job_batch_2.txt | STEP: 2. Identify file types
+20260321_212301 | job_batch_2.txt | STEP: 3. Create report
+20260321_212305 | job_batch_20.txt | STEP: 1. Scan folder
+20260321_212305 | job_batch_20.txt | STEP: 2. Identify file types
+20260321_212305 | job_batch_20.txt | STEP: 3. Sort by date
+20260321_212308 | job_batch_21.txt | STEP: 1. Scan folder
+20260321_212308 | job_batch_21.txt | STEP: 2. Identify file types
+20260321_212308 | job_batch_21.txt | STEP: 3. Organize output
+20260321_212311 | job_batch_22.txt | STEP: 1. Do something impossible
+20260321_212315 | job_batch_23.txt | STEP: 1. Scan folder
+20260321_212315 | job_batch_23.txt | STEP: 2. Identify file types
+20260321_212318 | job_batch_24.txt | STEP: 1. Scan folder
+20260321_212318 | job_batch_24.txt | STEP: 2. Identify file types
+20260321_212318 | job_batch_24.txt | STEP: 3. Create report
+20260321_212321 | job_batch_25.txt | STEP: 1. Scan folder
+20260321_212321 | job_batch_25.txt | STEP: 2. Identify file types
+20260321_212321 | job_batch_25.txt | STEP: 3. Create folders by type
+20260321_212321 | job_batch_25.txt | STEP: 4. Move files into folders
+20260321_212325 | job_batch_26.txt | STEP: 1. Scan folder
+20260321_212325 | job_batch_26.txt | STEP: 2. Identify file types
+20260321_212325 | job_batch_26.txt | STEP: 3. Create folders by type
+20260321_212325 | job_batch_26.txt | STEP: 4. Move files into folders
+20260321_212328 | job_batch_27.txt | STEP: 1. Scan folder
+20260321_212328 | job_batch_27.txt | STEP: 2. Identify file types
+20260321_212328 | job_batch_27.txt | STEP: 3. Generate file summary
+20260321_212331 | job_batch_28.txt | STEP: 1. Scan folder
+20260321_212331 | job_batch_28.txt | STEP: 2. Identify file types
+20260321_212331 | job_batch_28.txt | STEP: 3. Log results
+20260321_212331 | job_batch_28.txt | RESULTS LOGGED
+20260321_212335 | job_batch_29.txt | STEP: 1. Scan folder
+20260321_212335 | job_batch_29.txt | STEP: 2. Identify file types
+20260321_212335 | job_batch_29.txt | STEP: 3. Rename files
+20260321_212338 | job_batch_3.txt | STEP: 1. Scan folder
+20260321_212338 | job_batch_3.txt | STEP: 2. Identify file types
+20260321_212338 | job_batch_3.txt | STEP: 3. Create folders by type
+20260321_212338 | job_batch_3.txt | STEP: 4. Move files into folders
+20260321_212342 | job_batch_30.txt | STEP: 1. Scan folder
+20260321_212342 | job_batch_30.txt | STEP: 2. Identify file types
+20260321_212342 | job_batch_30.txt | STEP: 3. Detect duplicates
+20260321_212345 | job_batch_31.txt | STEP: 1. Scan folder
+20260321_212345 | job_batch_31.txt | STEP: 2. Identify file types
+20260321_212345 | job_batch_31.txt | STEP: 3. Sort by date
+20260321_212348 | job_batch_32.txt | STEP: 1. Scan folder
+20260321_212348 | job_batch_32.txt | STEP: 2. Identify file types
+20260321_212348 | job_batch_32.txt | STEP: 3. Organize output
+20260321_212352 | job_batch_33.txt | STEP: 1. Do something impossible
+20260321_212355 | job_batch_4.txt | STEP: 1. Scan folder
+20260321_212355 | job_batch_4.txt | STEP: 2. Identify file types
+20260321_212355 | job_batch_4.txt | STEP: 3. Create folders by type
+20260321_212355 | job_batch_4.txt | STEP: 4. Move files into folders
+20260321_212358 | job_batch_5.txt | STEP: 1. Scan folder
+20260321_212358 | job_batch_5.txt | STEP: 2. Identify file types
+20260321_212358 | job_batch_5.txt | STEP: 3. Generate file summary
+20260321_212402 | job_batch_6.txt | STEP: 1. Scan folder
+20260321_212402 | job_batch_6.txt | STEP: 2. Identify file types
+20260321_212402 | job_batch_6.txt | STEP: 3. Log results
+20260321_212402 | job_batch_6.txt | RESULTS LOGGED
+20260321_212405 | job_batch_7.txt | STEP: 1. Scan folder
+20260321_212405 | job_batch_7.txt | STEP: 2. Identify file types
+20260321_212405 | job_batch_7.txt | STEP: 3. Rename files
+20260321_212409 | job_batch_8.txt | STEP: 1. Scan folder
+20260321_212409 | job_batch_8.txt | STEP: 2. Identify file types
+20260321_212409 | job_batch_8.txt | STEP: 3. Detect duplicates
+20260321_212412 | job_batch_9.txt | STEP: 1. Scan folder
+20260321_212412 | job_batch_9.txt | STEP: 2. Identify file types
+20260321_212412 | job_batch_9.txt | STEP: 3. Sort by date
+20260321_212916 | job_batch_1.txt | STEP: 1. Scan folder
+20260321_212916 | job_batch_1.txt | STEP: 2. Identify file types
+20260321_212920 | job_batch_10.txt | STEP: 1. Scan folder
+20260321_212920 | job_batch_10.txt | STEP: 2. Identify file types
+20260321_212920 | job_batch_10.txt | STEP: 3. Organize output
+20260321_212923 | job_batch_11.txt | STEP: 1. Do something impossible
+20260321_212926 | job_batch_12.txt | STEP: 1. Scan folder
+20260321_212926 | job_batch_12.txt | STEP: 2. Identify file types
+20260321_212930 | job_batch_13.txt | STEP: 1. Scan folder
+20260321_212930 | job_batch_13.txt | STEP: 2. Identify file types
+20260321_212930 | job_batch_13.txt | STEP: 3. Create report
+20260321_212933 | job_batch_14.txt | STEP: 1. Scan folder
+20260321_212933 | job_batch_14.txt | STEP: 2. Identify file types
+20260321_212933 | job_batch_14.txt | STEP: 3. Create folders by type
+20260321_212933 | job_batch_14.txt | STEP: 4. Move files into folders
+20260321_212937 | job_batch_15.txt | STEP: 1. Scan folder
+20260321_212937 | job_batch_15.txt | STEP: 2. Identify file types
+20260321_212937 | job_batch_15.txt | STEP: 3. Create folders by type
+20260321_212937 | job_batch_15.txt | STEP: 4. Move files into folders
+20260321_212940 | job_batch_16.txt | STEP: 1. Scan folder
+20260321_212940 | job_batch_16.txt | STEP: 2. Identify file types
+20260321_212940 | job_batch_16.txt | STEP: 3. Generate file summary
+20260321_212943 | job_batch_17.txt | STEP: 1. Scan folder
+20260321_212943 | job_batch_17.txt | STEP: 2. Identify file types
+20260321_212943 | job_batch_17.txt | STEP: 3. Log results
+20260321_212943 | job_batch_17.txt | RESULTS LOGGED
+20260321_212947 | job_batch_18.txt | STEP: 1. Scan folder
+20260321_212947 | job_batch_18.txt | STEP: 2. Identify file types
+20260321_212947 | job_batch_18.txt | STEP: 3. Rename files
+20260321_212950 | job_batch_19.txt | STEP: 1. Scan folder
+20260321_212950 | job_batch_19.txt | STEP: 2. Identify file types
+20260321_212950 | job_batch_19.txt | STEP: 3. Detect duplicates
+20260321_212953 | job_batch_2.txt | STEP: 1. Scan folder
+20260321_212953 | job_batch_2.txt | STEP: 2. Identify file types
+20260321_212953 | job_batch_2.txt | STEP: 3. Create report
+20260321_212957 | job_batch_20.txt | STEP: 1. Scan folder
+20260321_212957 | job_batch_20.txt | STEP: 2. Identify file types
+20260321_212957 | job_batch_20.txt | STEP: 3. Sort by date
+20260321_213000 | job_batch_21.txt | STEP: 1. Scan folder
+20260321_213000 | job_batch_21.txt | STEP: 2. Identify file types
+20260321_213000 | job_batch_21.txt | STEP: 3. Organize output
+20260321_213004 | job_batch_22.txt | STEP: 1. Do something impossible
+20260321_213007 | job_batch_23.txt | STEP: 1. Scan folder
+20260321_213007 | job_batch_23.txt | STEP: 2. Identify file types
+20260321_213010 | job_batch_24.txt | STEP: 1. Scan folder
+20260321_213010 | job_batch_24.txt | STEP: 2. Identify file types
+20260321_213010 | job_batch_24.txt | STEP: 3. Create report
+20260321_213014 | job_batch_25.txt | STEP: 1. Scan folder
+20260321_213014 | job_batch_25.txt | STEP: 2. Identify file types
+20260321_213014 | job_batch_25.txt | STEP: 3. Create folders by type
+20260321_213014 | job_batch_25.txt | STEP: 4. Move files into folders
+20260321_213017 | job_batch_26.txt | STEP: 1. Scan folder
+20260321_213017 | job_batch_26.txt | STEP: 2. Identify file types
+20260321_213017 | job_batch_26.txt | STEP: 3. Create folders by type
+20260321_213017 | job_batch_26.txt | STEP: 4. Move files into folders
+20260321_213020 | job_batch_27.txt | STEP: 1. Scan folder
+20260321_213020 | job_batch_27.txt | STEP: 2. Identify file types
+20260321_213020 | job_batch_27.txt | STEP: 3. Generate file summary
+20260321_213024 | job_batch_28.txt | STEP: 1. Scan folder
+20260321_213024 | job_batch_28.txt | STEP: 2. Identify file types
+20260321_213024 | job_batch_28.txt | STEP: 3. Log results
+20260321_213024 | job_batch_28.txt | RESULTS LOGGED
+20260321_213027 | job_batch_29.txt | STEP: 1. Scan folder
+20260321_213027 | job_batch_29.txt | STEP: 2. Identify file types
+20260321_213027 | job_batch_29.txt | STEP: 3. Rename files
+20260321_213031 | job_batch_3.txt | STEP: 1. Scan folder
+20260321_213031 | job_batch_3.txt | STEP: 2. Identify file types
+20260321_213031 | job_batch_3.txt | STEP: 3. Create folders by type
+20260321_213031 | job_batch_3.txt | STEP: 4. Move files into folders
+20260321_213034 | job_batch_30.txt | STEP: 1. Scan folder
+20260321_213034 | job_batch_30.txt | STEP: 2. Identify file types
+20260321_213034 | job_batch_30.txt | STEP: 3. Detect duplicates
+20260321_213037 | job_batch_31.txt | STEP: 1. Scan folder
+20260321_213037 | job_batch_31.txt | STEP: 2. Identify file types
+20260321_213037 | job_batch_31.txt | STEP: 3. Sort by date
+20260321_213041 | job_batch_32.txt | STEP: 1. Scan folder
+20260321_213041 | job_batch_32.txt | STEP: 2. Identify file types
+20260321_213041 | job_batch_32.txt | STEP: 3. Organize output
+20260321_213044 | job_batch_33.txt | STEP: 1. Do something impossible
+20260321_213047 | job_batch_4.txt | STEP: 1. Scan folder
+20260321_213047 | job_batch_4.txt | STEP: 2. Identify file types
+20260321_213047 | job_batch_4.txt | STEP: 3. Create folders by type
+20260321_213047 | job_batch_4.txt | STEP: 4. Move files into folders
+20260321_213051 | job_batch_5.txt | STEP: 1. Scan folder
+20260321_213051 | job_batch_5.txt | STEP: 2. Identify file types
+20260321_213051 | job_batch_5.txt | STEP: 3. Generate file summary
+20260321_213054 | job_batch_6.txt | STEP: 1. Scan folder
+20260321_213054 | job_batch_6.txt | STEP: 2. Identify file types
+20260321_213054 | job_batch_6.txt | STEP: 3. Log results
+20260321_213054 | job_batch_6.txt | RESULTS LOGGED
+20260321_213058 | job_batch_7.txt | STEP: 1. Scan folder
+20260321_213058 | job_batch_7.txt | STEP: 2. Identify file types
+20260321_213058 | job_batch_7.txt | STEP: 3. Rename files
+20260321_213101 | job_batch_8.txt | STEP: 1. Scan folder
+20260321_213101 | job_batch_8.txt | STEP: 2. Identify file types
+20260321_213101 | job_batch_8.txt | STEP: 3. Detect duplicates
+20260321_213104 | job_batch_9.txt | STEP: 1. Scan folder
+20260321_213104 | job_batch_9.txt | STEP: 2. Identify file types
+20260321_213104 | job_batch_9.txt | STEP: 3. Sort by date
+20260321_213548 | job_batch_1.txt | STEP: 1. Scan folder
+20260321_213548 | job_batch_1.txt | STEP: 2. Identify file types
+20260321_213551 | job_batch_10.txt | STEP: 1. Scan folder
+20260321_213551 | job_batch_10.txt | STEP: 2. Identify file types
+20260321_213551 | job_batch_10.txt | STEP: 3. Organize output
+20260321_213554 | job_batch_11.txt | STEP: 1. Do something impossible
+20260321_213558 | job_batch_12.txt | STEP: 1. Scan folder
+20260321_213558 | job_batch_12.txt | STEP: 2. Identify file types
+20260321_213601 | job_batch_13.txt | STEP: 1. Scan folder
+20260321_213601 | job_batch_13.txt | STEP: 2. Identify file types
+20260321_213601 | job_batch_13.txt | STEP: 3. Create report
+20260321_213604 | job_batch_14.txt | STEP: 1. Scan folder
+20260321_213604 | job_batch_14.txt | STEP: 2. Identify file types
+20260321_213604 | job_batch_14.txt | STEP: 3. Create folders by type
+20260321_213604 | job_batch_14.txt | STEP: 4. Move files into folders
+20260321_213608 | job_batch_15.txt | STEP: 1. Scan folder
+20260321_213608 | job_batch_15.txt | STEP: 2. Identify file types
+20260321_213608 | job_batch_15.txt | STEP: 3. Create folders by type
+20260321_213608 | job_batch_15.txt | STEP: 4. Move files into folders
+20260321_213611 | job_batch_16.txt | STEP: 1. Scan folder
+20260321_213611 | job_batch_16.txt | STEP: 2. Identify file types
+20260321_213611 | job_batch_16.txt | STEP: 3. Generate file summary
+20260321_213615 | job_batch_17.txt | STEP: 1. Scan folder
+20260321_213615 | job_batch_17.txt | STEP: 2. Identify file types
+20260321_213615 | job_batch_17.txt | STEP: 3. Log results
+20260321_213615 | job_batch_17.txt | RESULTS LOGGED
+20260321_213618 | job_batch_18.txt | STEP: 1. Scan folder
+20260321_213618 | job_batch_18.txt | STEP: 2. Identify file types
+20260321_213618 | job_batch_18.txt | STEP: 3. Rename files
+20260321_213621 | job_batch_19.txt | STEP: 1. Scan folder
+20260321_213621 | job_batch_19.txt | STEP: 2. Identify file types
+20260321_213621 | job_batch_19.txt | STEP: 3. Detect duplicates
+20260321_213621 | job_batch_19.txt | DUPLICATE SCAN COMPLETE
+20260321_213625 | job_batch_2.txt | STEP: 1. Scan folder
+20260321_213625 | job_batch_2.txt | STEP: 2. Identify file types
+20260321_213625 | job_batch_2.txt | STEP: 3. Create report
+20260321_213628 | job_batch_20.txt | STEP: 1. Scan folder
+20260321_213628 | job_batch_20.txt | STEP: 2. Identify file types
+20260321_213628 | job_batch_20.txt | STEP: 3. Sort by date
+20260321_213631 | job_batch_21.txt | STEP: 1. Scan folder
+20260321_213631 | job_batch_21.txt | STEP: 2. Identify file types
+20260321_213631 | job_batch_21.txt | STEP: 3. Organize output
+20260321_213635 | job_batch_22.txt | STEP: 1. Do something impossible
+20260321_213638 | job_batch_23.txt | STEP: 1. Scan folder
+20260321_213638 | job_batch_23.txt | STEP: 2. Identify file types
+20260321_213641 | job_batch_24.txt | STEP: 1. Scan folder
+20260321_213641 | job_batch_24.txt | STEP: 2. Identify file types
+20260321_213641 | job_batch_24.txt | STEP: 3. Create report
+20260321_213645 | job_batch_25.txt | STEP: 1. Scan folder
+20260321_213645 | job_batch_25.txt | STEP: 2. Identify file types
+20260321_213645 | job_batch_25.txt | STEP: 3. Create folders by type
+20260321_213645 | job_batch_25.txt | STEP: 4. Move files into folders
+20260321_213648 | job_batch_26.txt | STEP: 1. Scan folder
+20260321_213648 | job_batch_26.txt | STEP: 2. Identify file types
+20260321_213648 | job_batch_26.txt | STEP: 3. Create folders by type
+20260321_213648 | job_batch_26.txt | STEP: 4. Move files into folders
+20260321_213652 | job_batch_27.txt | STEP: 1. Scan folder
+20260321_213652 | job_batch_27.txt | STEP: 2. Identify file types
+20260321_213652 | job_batch_27.txt | STEP: 3. Generate file summary
+20260321_213655 | job_batch_28.txt | STEP: 1. Scan folder
+20260321_213655 | job_batch_28.txt | STEP: 2. Identify file types
+20260321_213655 | job_batch_28.txt | STEP: 3. Log results
+20260321_213655 | job_batch_28.txt | RESULTS LOGGED
+20260321_213658 | job_batch_29.txt | STEP: 1. Scan folder
+20260321_213658 | job_batch_29.txt | STEP: 2. Identify file types
+20260321_213658 | job_batch_29.txt | STEP: 3. Rename files
+20260321_213702 | job_batch_3.txt | STEP: 1. Scan folder
+20260321_213702 | job_batch_3.txt | STEP: 2. Identify file types
+20260321_213702 | job_batch_3.txt | STEP: 3. Create folders by type
+20260321_213702 | job_batch_3.txt | STEP: 4. Move files into folders
+20260321_213705 | job_batch_30.txt | STEP: 1. Scan folder
+20260321_213705 | job_batch_30.txt | STEP: 2. Identify file types
+20260321_213705 | job_batch_30.txt | STEP: 3. Detect duplicates
+20260321_213705 | job_batch_30.txt | DUPLICATE SCAN COMPLETE
+20260321_213709 | job_batch_31.txt | STEP: 1. Scan folder
+20260321_213709 | job_batch_31.txt | STEP: 2. Identify file types
+20260321_213709 | job_batch_31.txt | STEP: 3. Sort by date
+20260321_213712 | job_batch_32.txt | STEP: 1. Scan folder
+20260321_213712 | job_batch_32.txt | STEP: 2. Identify file types
+20260321_213712 | job_batch_32.txt | STEP: 3. Organize output
+20260321_213715 | job_batch_33.txt | STEP: 1. Do something impossible
+20260321_213719 | job_batch_4.txt | STEP: 1. Scan folder
+20260321_213719 | job_batch_4.txt | STEP: 2. Identify file types
+20260321_213719 | job_batch_4.txt | STEP: 3. Create folders by type
+20260321_213719 | job_batch_4.txt | STEP: 4. Move files into folders
+20260321_213722 | job_batch_5.txt | STEP: 1. Scan folder
+20260321_213722 | job_batch_5.txt | STEP: 2. Identify file types
+20260321_213722 | job_batch_5.txt | STEP: 3. Generate file summary
+20260321_213726 | job_batch_6.txt | STEP: 1. Scan folder
+20260321_213726 | job_batch_6.txt | STEP: 2. Identify file types
+20260321_213726 | job_batch_6.txt | STEP: 3. Log results
+20260321_213726 | job_batch_6.txt | RESULTS LOGGED
+20260321_213729 | job_batch_7.txt | STEP: 1. Scan folder
+20260321_213729 | job_batch_7.txt | STEP: 2. Identify file types
+20260321_213729 | job_batch_7.txt | STEP: 3. Rename files
+20260321_213732 | job_batch_8.txt | STEP: 1. Scan folder
+20260321_213732 | job_batch_8.txt | STEP: 2. Identify file types
+20260321_213732 | job_batch_8.txt | STEP: 3. Detect duplicates
+20260321_213732 | job_batch_8.txt | DUPLICATE SCAN COMPLETE
+20260321_213736 | job_batch_9.txt | STEP: 1. Scan folder
+20260321_213736 | job_batch_9.txt | STEP: 2. Identify file types
+20260321_213736 | job_batch_9.txt | STEP: 3. Sort by date
+20260321_214140 | job_batch_1.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214140 | job_batch_1.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214143 | job_batch_10.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214143 | job_batch_10.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214143 | job_batch_10.txt | INTENT: unknown | STEP: 3. Organize output
+20260321_214147 | job_batch_11.txt | INTENT: unknown | STEP: 1. Do something impossible
+20260321_214150 | job_batch_12.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214150 | job_batch_12.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214153 | job_batch_13.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214153 | job_batch_13.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214153 | job_batch_13.txt | INTENT: report | STEP: 3. Create report
+20260321_214157 | job_batch_14.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214157 | job_batch_14.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214157 | job_batch_14.txt | INTENT: organize | STEP: 3. Create folders by type
+20260321_214157 | job_batch_14.txt | INTENT: organize | STEP: 4. Move files into folders
+20260321_214200 | job_batch_15.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214200 | job_batch_15.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214200 | job_batch_15.txt | INTENT: organize | STEP: 3. Create folders by type
+20260321_214200 | job_batch_15.txt | INTENT: organize | STEP: 4. Move files into folders
+20260321_214203 | job_batch_16.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214203 | job_batch_16.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214203 | job_batch_16.txt | INTENT: summary | STEP: 3. Generate file summary
+20260321_214207 | job_batch_17.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214207 | job_batch_17.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214207 | job_batch_17.txt | INTENT: log | STEP: 3. Log results
+20260321_214207 | job_batch_17.txt | RESULTS LOGGED
+20260321_214210 | job_batch_18.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214210 | job_batch_18.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214210 | job_batch_18.txt | INTENT: rename | STEP: 3. Rename files
+20260321_214214 | job_batch_19.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214214 | job_batch_19.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214214 | job_batch_19.txt | INTENT: duplicates | STEP: 3. Detect duplicates
+20260321_214217 | job_batch_2.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214217 | job_batch_2.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214217 | job_batch_2.txt | INTENT: report | STEP: 3. Create report
+20260321_214220 | job_batch_20.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214220 | job_batch_20.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214220 | job_batch_20.txt | INTENT: unknown | STEP: 3. Sort by date
+20260321_214224 | job_batch_21.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214224 | job_batch_21.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214224 | job_batch_21.txt | INTENT: unknown | STEP: 3. Organize output
+20260321_214227 | job_batch_22.txt | INTENT: unknown | STEP: 1. Do something impossible
+20260321_214230 | job_batch_23.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214230 | job_batch_23.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214234 | job_batch_24.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214234 | job_batch_24.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214234 | job_batch_24.txt | INTENT: report | STEP: 3. Create report
+20260321_214237 | job_batch_25.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214237 | job_batch_25.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214237 | job_batch_25.txt | INTENT: organize | STEP: 3. Create folders by type
+20260321_214237 | job_batch_25.txt | INTENT: organize | STEP: 4. Move files into folders
+20260321_214241 | job_batch_26.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214241 | job_batch_26.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214241 | job_batch_26.txt | INTENT: organize | STEP: 3. Create folders by type
+20260321_214241 | job_batch_26.txt | INTENT: organize | STEP: 4. Move files into folders
+20260321_214244 | job_batch_27.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214244 | job_batch_27.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214244 | job_batch_27.txt | INTENT: summary | STEP: 3. Generate file summary
+20260321_214247 | job_batch_28.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214247 | job_batch_28.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214247 | job_batch_28.txt | INTENT: log | STEP: 3. Log results
+20260321_214247 | job_batch_28.txt | RESULTS LOGGED
+20260321_214251 | job_batch_29.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214251 | job_batch_29.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214251 | job_batch_29.txt | INTENT: rename | STEP: 3. Rename files
+20260321_214254 | job_batch_3.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214254 | job_batch_3.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214254 | job_batch_3.txt | INTENT: organize | STEP: 3. Create folders by type
+20260321_214254 | job_batch_3.txt | INTENT: organize | STEP: 4. Move files into folders
+20260321_214257 | job_batch_30.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214257 | job_batch_30.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214257 | job_batch_30.txt | INTENT: duplicates | STEP: 3. Detect duplicates
+20260321_214301 | job_batch_31.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214301 | job_batch_31.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214301 | job_batch_31.txt | INTENT: unknown | STEP: 3. Sort by date
+20260321_214304 | job_batch_32.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214304 | job_batch_32.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214304 | job_batch_32.txt | INTENT: unknown | STEP: 3. Organize output
+20260321_214307 | job_batch_33.txt | INTENT: unknown | STEP: 1. Do something impossible
+20260321_214311 | job_batch_4.txt | INTENT: scan | STEP: 1. Scan folder
+20260321_214311 | job_batch_4.txt | INTENT: identify | STEP: 2. Identify file types
+20260321_214311 | job_batch_4.txt | INTENT: organize | STEP: 3. Create folders by type
+20260321_214311 | job_batch_4.txt | INTENT: organize | STEP: 4. Move files into folders
+20260321_214317 | job_batch_6.txt | LOGGED
+20260321_214503 | job_batch_17.txt | LOGGED
+20260321_214543 | job_batch_28.txt | LOGGED
+20260321_214613 | job_batch_6.txt | LOGGED
+20260321_214927 | job_batch_17.txt | LOGGED
+20260321_215008 | job_batch_28.txt | LOGGED
+20260321_215039 | job_batch_6.txt | LOGGED
+20260321_215532 | job_batch_28.txt | LOGGED
+20260321_215603 | job_batch_6.txt | LOGGED
+20260321_215807 | job_batch_17.txt | LOGGED
+20260321_215848 | job_batch_28.txt | LOGGED
+20260321_215918 | job_batch_6.txt | LOGGED
+20260321_220146 | job_batch_17.txt | LOGGED
+20260321_220227 | job_batch_28.txt | LOGGED
+20260321_220257 | job_batch_6.txt | LOGGED
+20260322_105737 | job_batch_17.txt | LOGGED
+20260322_105818 | job_batch_28.txt | LOGGED
+20260322_105848 | job_batch_6.txt | LOGGED
+20260322_110156 | job_batch_28.txt | LOGGED
+20260322_110226 | job_batch_6.txt | LOGGED
+20260322_114746 | batch33_3.txt | LOGGED
+20260322_121741 | real_6.txt | LOGGED
+20260322_122811 | batch33_18.txt | LOGGED
+20260322_122831 | batch33_23.txt | LOGGED
+20260322_122928 | batch33_9.txt | LOGGED

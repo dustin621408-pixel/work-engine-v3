@@ -1,0 +1,5 @@
+JOB: job_training_1
+STATUS: COMPLETE
+STEPS:
+1. Scan folder
+2. Identify file types

@@ -1,0 +1,2 @@
+﻿1. Scan folder
+2. Identify file types

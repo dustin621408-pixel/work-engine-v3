@@ -1,0 +1,82 @@
+JOB START
+
+
+SECTION: INPUT
+PURPOSE:
+Introduce job into system.
+
+CONTEXT:
+TITLE: Sample Automation Job
+SOURCE: Manual
+DESCRIPTION:
+Client needs a simple automation process to reduce repetitive work.
+
+CONSTRAINTS:
+Keep it simple, reliable, and easy to use.
+
+
+ANALYSIS:
+Input appears valid and actionable.
+
+DECISION:
+Proceed.
+
+EXECUTION:
+Move forward.
+
+EVALUATION:
+Clear input.
+
+ADJUSTMENT:
+Refine if needed.
+
+---
+
+SECTION: CONTEXT
+PURPOSE:
+Understand requirements.
+
+CONTEXT:
+Extract details from input.
+
+ANALYSIS:
+Focus on simplicity.
+
+DECISION:
+Proceed.
+
+EXECUTION:
+Break into steps.
+
+EVALUATION:
+Usable context.
+
+ADJUSTMENT:
+Improve clarity.
+
+---
+
+SECTION: INTENT
+PURPOSE:
+Define success.
+
+CONTEXT:
+Automation task.
+
+ANALYSIS:
+Client wants efficiency.
+
+DECISION:
+Working simple automation.
+
+EXECUTION:
+Define outcome.
+
+EVALUATION:
+Clear goal.
+
+ADJUSTMENT:
+Refine later.
+
+---
+

@@ -1,0 +1,260 @@
+JOB: job_test2
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_auto
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_test3
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_from_planner
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_from_planner
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_from_planner
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_from_planner
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_test_live
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_scan_test
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_training_1
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_training_2
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_training_3
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_training_4
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_training_5
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_training_1
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_training_2
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_training_3
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_training_4
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_training_5
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_1
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_10
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_2
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_3
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_4
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_5
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_6
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_7
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_8
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_9
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_1
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_10
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_2
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_3
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_4
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_5
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_6
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_7
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_8
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_9
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_1
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_10
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_2
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_3
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_4
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_5
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_6
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_7
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_8
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_9
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_fail_test
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_fail_test
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_fail_test
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_fail_test
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_1
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_10
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_2
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_3
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_4
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_5
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_6
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_7
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_8
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_batch_9
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_report_test
+LESSON:
+Basic execution successful. Action mapping worked.
+
+JOB: job_report_test
+LESSON:
+Basic execution successful. Action mapping worked.
+

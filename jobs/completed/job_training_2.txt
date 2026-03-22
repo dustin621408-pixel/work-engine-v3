@@ -1,0 +1,4 @@
+﻿1. Scan folder
+2. Identify file types
+3. Create folders by type
+4. Move files into folders

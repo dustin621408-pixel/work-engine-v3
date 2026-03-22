@@ -1,0 +1,4 @@
+JOB: job_fail_test
+STATUS: COMPLETE
+STEPS:
+1. Do something impossible

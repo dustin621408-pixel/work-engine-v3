@@ -1,0 +1,6 @@
+JOB: job_test3
+STATUS: COMPLETE
+STEPS:
+1. Create intake folder
+2. Prepare file
+3. Generate summary

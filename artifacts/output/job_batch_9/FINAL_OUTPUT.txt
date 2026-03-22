@@ -1,0 +1,6 @@
+JOB: job_batch_9
+STATUS: COMPLETE
+STEPS:
+1. Scan folder
+2. Identify file types
+3. Create report
