@@ -1,0 +1,14 @@
+{
+    "unknown":  73,
+    "summary":  19,
+    "rename":  13,
+    "action_extraction":  1,
+    "organize":  192,
+    "duplicates":  12,
+    "identify":  150,
+    "report":  12,
+    "urgency_detection":  8,
+    "log":  18,
+    "emotion_analysis":  2,
+    "scan":  128
+}

@@ -1,0 +1,8 @@
+JOB: test_normal.txt
+TIME: 2026-03-22 14:09:45
+
+CONTENT:
+Test normal job execution
+
+
+STATUS: COMPLETED

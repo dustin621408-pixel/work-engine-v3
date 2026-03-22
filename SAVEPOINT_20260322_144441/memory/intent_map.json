@@ -1,0 +1,18 @@
+{
+    "analyze emotional tone of files":  "emotion_analysis",
+    "detect urgency in messages":  "urgency_detection",
+    "detect urgency":  "urgency_detection",
+    "urgent message":  "urgency_detection",
+    "needs to be fixed asap":  "urgency_detection",
+    "critical issue":  "urgency_detection",
+    "immediate attention":  "urgency_detection",
+    "asap request":  "urgency_detection",
+    "find action items in notes":  "action_extraction",
+    "extract action items":  "action_extraction",
+    "extract tasks":  "action_extraction",
+    "find tasks":  "action_extraction",
+    "extract key tasks":  "action_extraction",
+    "extract next steps":  "action_extraction",
+    "identify tasks":  "action_extraction",
+    "action items from notes":  "action_extraction"
+}
