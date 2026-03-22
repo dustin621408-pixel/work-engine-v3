@@ -1,0 +1,4 @@
+- Task analyzed
+- Priority determined
+- Appropriate actions executed
+- Outputs generated automatically

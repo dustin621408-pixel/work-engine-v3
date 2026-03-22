@@ -1,0 +1,10 @@
+1. Drop job into:
+C:\WorkEngine\jobs\active\
+
+2. System will process automatically
+
+3. Results appear in:
+C:\WorkEngine\output\
+
+4. Deliverables generated in:
+C:\WorkEngine\deliverables\

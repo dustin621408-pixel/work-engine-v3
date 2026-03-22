@@ -89,3 +89,17 @@ foreach ($action in $actions) {
         }
     }
 }
+
+
+try {
+} catch {
+    Write-Host "Deliverable engine failed" -ForegroundColor Red
+}
+
+
+# === DELIVERABLE HOOK ===
+try {
+    powershell C:\WorkEngine\deliverable_engine.ps1 "$jobName" "$content"
+} catch {
+    Write-Host "Deliverable engine failed" -ForegroundColor Red
+}
